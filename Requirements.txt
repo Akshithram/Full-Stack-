@@ -1,0 +1,12 @@
+Install dependencies for the server 
+	npm install express mongoose bcrypt jsonwebtoken cors dotenv
+
+Install dependencies for the front-end: 
+	npm install react-router-dom axios bootstrap
+
+	npx create-react-app client
+	cd client
+	npm install react-router-dom axios bootstrap
+
+
+Set up your MongoDB URI in a .env file for the server
